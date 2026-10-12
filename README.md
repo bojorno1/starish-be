@@ -5,7 +5,7 @@
 
 <h3>This is my version of the project <strong><em>Starbie</em></strong>, found <em><a href="https://github.com/SharKingStudios/Starbie/" target="_blank">here</a></em></h3>
 <br>
-This was made as my Week 1 project for Half-Life, and is also my first project for Hack Club in general. 
+This was made as my Week 1 project for <a href="https://halflife.hackclub.com" target="_blank">Half-Life</a>, and is also my first project for <a href="https://hackclub.com/" target="_blank">Hack Club</a> in general. 
 <br><br>
 The project is a type of digital pet, controlled by two MX switches and uses a XIAO-ESP32-C3 as its main processor. The digital sprite is displayed via a 0.93" OLED display, in the center of the PCB. The pet is also controlled with a DHT11 environment sensor, and a MPU6050 accelerometer. While the original project does not feature it, I have added plastic screws, nuts, and spacers to support the display and accelerometer, as opposed to being supported solely by the pins.
 <br><br>
