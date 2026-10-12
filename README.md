@@ -17,7 +17,7 @@ PCB schematic
 <h4>
   Bill of Materials
   <em>
-    <a href="https://github.com.bojorno1/starish-be/blob/main/bom.csv>
+    <a href="https://github.com.bojorno1/starish-be/blob/main/bom.csv">
       here...
     </a>
   </em>
