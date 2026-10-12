@@ -14,7 +14,7 @@ With the pet, you can feed it, play with it, dance with it, or even let it nap! 
 <h4>
 PCB schematic 
 <em><a href="https://github.com/bojorno1/starish-be/blob/main/pcb/schematic.pdf">here...
-</em></a><br>
+</em></a><br><br>
 <span style:normal>NOTE: The cost of the PCB can vary greatly depending on your PCB options, so the price shown is an estimate.</span></h4>
 
 <h4>
