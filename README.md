@@ -11,6 +11,7 @@ The project is a type of digital pet, controlled by two MX switches and uses a X
 <br><br>
 With the pet, you can feed it, play with it, dance with it, or even let it nap! Using the built in accelerometer, you can shake it to see what happens! It can even show you the ambient temperature and humidity using the built in environment sensor. This project is also made up of common, low cost components, so it has a very low barrier to entry. 
 
+
 <h4>
 PCB schematic 
 <em><a href="https://github.com/bojorno1/starish-be/blob/main/pcb/schematic.pdf">here...
