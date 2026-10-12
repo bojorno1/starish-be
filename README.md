@@ -3,7 +3,7 @@
 
 <em>(Its close enough to a star right?)</em>
 
-This is my version of the project Starbie, found here: https://github.com/SharKingStudios/Starbie/
+This is my version of the project Starbie, found <em><a href="https://github.com/SharKingStudios/Starbie/" target="_blank">here<em>
 <br>
 This was made as my Week 1 project for Half-Life, and is also my first project for Hack Club in general. 
 <br>
