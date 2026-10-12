@@ -1,6 +1,7 @@
+<h1>Star<em>ish>-be</em></h1>
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/side_image.png" alt="side_image.png">
 
-(Its close enough to a star right?)
+<em>(Its close enough to a star right?)</em>
 
 This was made as my Week 1 project for Half-Life, and is also my first project for Hack Club in general. 
 This is my version of the project Starbie, found here: https://github.com/SharKingStudios/Starbie/
