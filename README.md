@@ -22,6 +22,13 @@ PCB schematic
     </a>
   </em>
 </h4>
+
+<!-- Uncomment below to add images of finished project, images of assembly, etc... -->
+<!-- <img src=" " alt=" "> -->
+<!-- <img src=" " alt=" "> -->
+<!-- <img src=" " alt=" "> -->
+<!-- <img src=" " alt=" "> -->
+
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/pcb_front.png" alt="pcb_front.png">
 
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/pcb_back.png" alt="pcb_back.png">
