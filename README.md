@@ -8,8 +8,8 @@ This is my version of the project Starbie, found <em><a href="https://github.com
 This was made as my Week 1 project for Half-Life, and is also my first project for Hack Club in general. 
 <br>
 The project is a type of digital pet, controlled by two MX switches and uses a XIAO-ESP32-C3 as its main processor. The digital sprite is displayed via a 0.93" OLED display, in the center of the PCB. The pet is also controlled with a DHT11 environment sensor, and a MPU6050 accelerometer. While the original project does not feature it, I have added plastic screws, nuts, and spacers to support the display and accelerometer, as opposed to being supported solely by the pins.
-
-With the pet, you can feed it, play with it, dance with it, or even let it nap! Using the built in accelerometer, you can shake it to see what happens! It can even show you the ambient temperature and humidity using the built in environment sensor! This project is also made up of common, low cost components, so it has a very low barrier to entry. 
+<br>
+With the pet, you can feed it, play with it, dance with it, or even let it nap! Using the built in accelerometer, you can shake it to see what happens! It can even show you the ambient temperature and humidity using the built in environment sensor. This project is also made up of common, low cost components, so it has a very low barrier to entry. 
 
 <h4>
 PCB schematic 
