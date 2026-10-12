@@ -13,10 +13,6 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C4](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | — | 1 | $0.00 | $0.00 | [Seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [0.96" OLED](https://www.amazon.com/dp/B0GBVWBWCR) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
-| [MPU6050](https://www.amazon.com/dp/B0943SGP34) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
-| [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$0.00** | — |
