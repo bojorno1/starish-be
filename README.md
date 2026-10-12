@@ -1,4 +1,4 @@
-<h1>Star<em>ish>-be</em></h1>
+<h1>Star<em>ish</em>-be</h1>
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/side_image.png" alt="side_image.png">
 
 <em>(Its close enough to a star right?)</em>
