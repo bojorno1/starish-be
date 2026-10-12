@@ -17,10 +17,6 @@
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
-| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
-| [PCB](https://www.jlcpcb.com/) | — | 1 | $0.00 | $0.00 | [JLCPCB](https://www.jlcpcb.com/) |
-| [M3 Nut](https://www.amazon.com/M3-0-5mm-Black-Plastic-Coarse-Thread/dp/B0B4KSSBFB/ref=sr_1_3?crid=3FW2M6RM8FZOY&dib=eyJ2IjoiMSJ9.Ea9UgDS1jWhQupEMq3QmUL6KLKe6zHbcNmvUYsvuKxZP5BcxJrXrs41zA5RFbQEk9tyCNxrmemleQdXgHuSuh7NFE4-iUYg2YNa2nnQFC7MEx5kEDIoiAp-GGmVqUX-2T_q6pHBlKqg8RQSBp_ndiaNqOEDGlG8jiNv7WG3b7UR2-jtqBLX-pT9Bq3Nb7kLhKTpz2tyUYMpapZ_rL_HeYfuvkIB9QRCkVLtu8Po6ioyopUHTVtLP7sgR5sxXGHAOZWy9VnfNtKvtMBWEO-gozcWQXg9MRpOMpQ9m0azMOQ0.yxuexxMkc89Xr_QOGq1s-lYthu8hG2IhOcZKZWpE59k&dib_tag=se&keywords=m3+plastic+nut&qid=1791766534&s=industrial&sprefix=m3+plastic+%2Cindustrial%2C308&sr=1-3) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/M3-0-5mm-Black-Plastic-Coarse-Thread/dp/B0B4KSSBFB/ref=sr_1_3?crid=3FW2M6RM8FZOY&dib=eyJ2IjoiMSJ9.Ea9UgDS1jWhQupEMq3QmUL6KLKe6zHbcNmvUYsvuKxZP5BcxJrXrs41zA5RFbQEk9tyCNxrmemleQdXgHuSuh7NFE4-iUYg2YNa2nnQFC7MEx5kEDIoiAp-GGmVqUX-2T_q6pHBlKqg8RQSBp_ndiaNqOEDGlG8jiNv7WG3b7UR2-jtqBLX-pT9Bq3Nb7kLhKTpz2tyUYMpapZ_rL_HeYfuvkIB9QRCkVLtu8Po6ioyopUHTVtLP7sgR5sxXGHAOZWy9VnfNtKvtMBWEO-gozcWQXg9MRpOMpQ9m0azMOQ0.yxuexxMkc89Xr_QOGq1s-lYthu8hG2IhOcZKZWpE59k&dib_tag=se&keywords=m3+plastic+nut&qid=1791766534&s=industrial&sprefix=m3+plastic+%2Cindustrial%2C308&sr=1-3) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$0.00** | — |
