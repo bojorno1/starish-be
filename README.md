@@ -11,9 +11,17 @@ The project is a type of digital pet, controlled by two MX switches and uses a X
 
 <h4>
 PCB schematic 
-<em><a href="https://github.com/bojorno1/starish-be/blob/main/pcb/schematic.pdf">here
+<em><a href="https://github.com/bojorno1/starish-be/blob/main/pcb/schematic.pdf">here...
 </em></a></h4>
 
+<h4>
+  Bill of Materials
+  <em>
+    <a href="https://github.com.bojorno1/starish-be/blob/main/bom.csv>
+      here...
+    </a>
+  </em>
+</h4>
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/pcb_front.png" alt="pcb_front.png">
 
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/pcb_back.png" alt="pcb_back.png">
