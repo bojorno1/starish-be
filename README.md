@@ -1,9 +1,9 @@
-<h1>Star<em>ish</em>-be</h1>
+<h1><strong></b>Star<em>ish</em>-be</strong></h1>
 <img src="https://github.com/bojorno1/starish-be/blob/main/images/side_image.png" alt="side_image.png">
 
 <em>(Its close enough to a star right?)</em>
 
-<h3>This is my version of the project <strong>Starbie</strong>, found <em><a href="https://github.com/SharKingStudios/Starbie/" target="_blank">here</a></em></h3>
+<h3>This is my version of the project <strong><em>Starbie</em></strong>, found <em><a href="https://github.com/SharKingStudios/Starbie/" target="_blank">here</a></em></h3>
 <br>
 This was made as my Week 1 project for Half-Life, and is also my first project for Hack Club in general. 
 <br><br>
