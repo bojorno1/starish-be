@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿Component Name,Qty,Unit,Total,Link
+Component Name,Qty,Unit,Total,Link
 XIAO ESP32 C4,1,$4.99 ,$4.99 ,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 "0.96"" OLED",1,$2.50 ,$2.50 ,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,$2.29 ,$2.29 ,https://www.amazon.com/dp/B0943SGP34
@@ -14,17 +13,4 @@ M3 Spacer and Screw,-,$7.59 ,$7.59 ,https://www.amazon.com/Nylon-Standoff-Fasten
 Total,,,$32.33 ,
 ,,,,
 ,,,"(Note: Prices are based off unit cost, except for M3 Spacer and Screw, and the PCB. PCBs cannot be bought as a group buy, which would normally allow for buying at unit price, as each PCB is specific per-project, and the M3 Spacer and Screw are sold together, so finding unit cost is tricky.)",
-=======
-Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32 C3,1,Seeedstudio,$4.99,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-"0.96"" OLED",1,Amazon,$2.50,$2.50,https://www.amazon.com/dp/B0GBVWBWCR
-MPU6050,1,Amazon,$2.29,$2.29,https://www.amazon.com/dp/B0943SGP34
-DHT11,1,Amazon,$1.99,$1.99,https://www.amazon.com/dp/B0BLG7R99R
-MX Switches,2,Amazon,$0.18,$0.36,https://www.amazon.com//dp/B0FQP8VYX4
-Keycaps,2,Amazon,$0.60,$1.20,https://www.amazon.com/dp/B0CQ2VLMVY
-10k Resistor,1,Amazon,$0.05,$0.05,https://www.amazon.com/dp/B0B4JFPHTW
-PCB,1,JLCPCB,$11.00,$11.00,https://www.jlcpcb.com/
-M3 Nut,6,Amazon,$0.06,$0.36,https://www.amazon.com/M3-0-5mm-Black-Plastic-Coarse-Thread/dp/B0B4KSSBFB/ref=sr_1_3?crid=3FW2M6RM8FZOY&dib=eyJ2IjoiMSJ9.Ea9UgDS1jWhQupEMq3QmUL6KLKe6zHbcNmvUYsvuKxZP5BcxJrXrs41zA5RFbQEk9tyCNxrmemleQdXgHuSuh7NFE4-iUYg2YNa2nnQFC7MEx5kEDIoiAp-GGmVqUX-2T_q6pHBlKqg8RQSBp_ndiaNqOEDGlG8jiNv7WG3b7UR2-jtqBLX-pT9Bq3Nb7kLhKTpz2tyUYMpapZ_rL_HeYfuvkIB9QRCkVLtu8Po6ioyopUHTVtLP7sgR5sxXGHAOZWy9VnfNtKvtMBWEO-gozcWQXg9MRpOMpQ9m0azMOQ0.yxuexxMkc89Xr_QOGq1s-lYthu8hG2IhOcZKZWpE59k&dib_tag=se&keywords=m3+plastic+nut&qid=1791766534&s=industrial&sprefix=m3+plastic+%2Cindustrial%2C308&sr=1-3
-M3 Screws and Spacers,1,Amazon,$7.59,$7.59,https://www.amazon.com/Nylon-Standoff-Fastener-Kit-Motherboard/dp/B0G3XCGSNV/ref=sr_1_10_sspa?dib=eyJ2IjoiMSJ9.3_yyZZIOdG1lA46tLxFNgsBpsZ9gv2_WD06NqSJKmiUg4csPmXuFoVwePpXu9SRyS6aM6KhIVzGn_V9VMjIu1F-qanax53pSExaEyLpG2YSep2wIao660SHJi5pCqcvze2RjVjHzmpIMXcp6c5drYaPALO_qx18CtgOkH_KqMv43KH6fPnXT3bpZ1c0zZVXoCjhTHdVERJoxfQpH6gDoE8ZdE25Cdj7S-0NVawX40RDVA2MzJGxWbHHEj2lTqKjghPSjxIkcXoZkvG6bNqj5nfnx1_u1_LCyILSTQtFylJo.P3wMMf1IaQWX450fU9YU_gziUj6mseKtMGtb_NtUj6c&dib_tag=se&keywords=m3+plastic+spacer&qid=1791775448&s=industrial&sr=1-10-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1
-Estimated total shipping,1,,,$0.00,
->>>>>>> 42c7e180f71073dbb78d7681f2b8496b287d09f4
+
