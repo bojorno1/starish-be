@@ -530,7 +530,7 @@
       "netlist": "",
       "plot": "/Users/josephacosta/Desktop/Half-Life/",
       "specctra_dsn": "",
-      "step": "Half-Life.step",
+      "step": "Half-Life.glb",
       "vrml": ""
     },
     "page_layout_descr_file": ""
