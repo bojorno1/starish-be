@@ -1,5 +1,5 @@
 <h1><strong></b>Star<em>ish</em>-be</strong></h1>
-<img src="https://github.com/bojorno1/starish-be/blob/main/images/side_image.png" alt="side_image.png">
+<img src="https://github.com/bojorno1/starish-be/blob/main/images/side_image.png" alt="side.png">
 
 <em>(Its close enough to a star right?)</em>
 
@@ -33,8 +33,7 @@ PCB schematic
 <!-- <img src=" " alt=" "> -->
 <!-- <img src=" " alt=" "> -->
 
-<img src="" alt="pcb_front.png">
+<img src="" alt="front.png">
 
-<img src="" alt="pcb_back.png">
+<img src="" alt="back.png">
 
-<img src="">
